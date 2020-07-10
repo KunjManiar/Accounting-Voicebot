@@ -1,9 +1,9 @@
 # Voicebot for Accounting Software
 
-<strong>Natural Language Processing Project Details </strong> <br>
-Group Members - <br>
-1. 17BCE2410 Maniar Kunj Jignesh <br>
-2. 17BCE2420 Bhuvnesh Pratap Singh <br>
+<strong>Natural Language Processing Project Details </strong> <br><br>
+<strong>Collaborators are - <strong><br>
+1. Maniar Kunj Jignesh <br>
+2. Bhuvnesh Pratap Singh <br>
 
 Project details: <br>
   Software Architecture -------- MVC <br>
@@ -30,12 +30,12 @@ application used by the business. This software is, in essence, a business intel
 software which interacts and functions on voice commands. <br>
 The main business accounting website will be built with small and medium scale businesses in mind
 with unique features to aid in their digitized record keeping. Adding to this, we will add an
-intelligent voice-bot which makes the changes in the database. The user’s voice is transcoded to
+intelligent voice-bot which makes the changes in the database. The userâ€™s voice is transcoded to
 natural language which is stemmed and converted to appropriate MongoDB queries with the help of a
 translation algorithm. This translation algorithm will use the concept of the complete backend of
 the project is built on python using multiple frameworks and tools. <br>
 
-<strong>Keywords</strong> – Voice-bot, Database, Query, Natural Language, Transactions, Accounting, 
+<strong>Keywords</strong> â€“ Voice-bot, Database, Query, Natural Language, Transactions, Accounting, 
 Google Cloud Speech to Text API<br>
 
 <hr>
