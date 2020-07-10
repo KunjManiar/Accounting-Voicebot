@@ -1,0 +1,18 @@
+{
+	"select": {
+		"column": "None",
+		"type": "[]"
+	},
+	"from": {
+		"table": "invoices"
+	},
+	"where": {
+		"condition": [
+			{ "column": "no",
+			  "type": "None",
+			  "operator": "!=",
+			  "value": "'102'"
+			}
+		]
+	}
+}

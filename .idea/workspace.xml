@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7406bdf7-44dc-4876-a3ab-4740c36c238d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phase_flask1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phase_flask1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/companies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/companies/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/invoices/invoice.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/invoices/invoice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/invoices/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/invoices/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/items/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/items/item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/items/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/items/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/parties/party.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/parties/party.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/users/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/users/decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/js/page/invoices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/js/page/invoices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/header.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/header.jinja2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/home.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/home.jinja2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/login.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/login.jinja2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/party/new_party.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/party/new_party.jinja2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/sidebar.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/sidebar.jinja2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/statics.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/statics.jinja2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/phase_flask1$invoice.coverage" NAME="invoice Coverage Results" MODIFIED="1588509040332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/models/invoices" />
+    <SUITE FILE_PATH="coverage/phase_flask1$excel_sheet_maker.coverage" NAME="excel_sheet_maker Coverage Results" MODIFIED="1561805733049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/models/invoices" />
+    <SUITE FILE_PATH="coverage/phase_flask1$run.coverage" NAME="run Coverage Results" MODIFIED="1591177218744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/phase_flask1$item.coverage" NAME="item Coverage Results" MODIFIED="1588509449740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/models/items" />
+    <SUITE FILE_PATH="coverage/phase_flask1$test.coverage" NAME="test Coverage Results" MODIFIED="1561741027112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/models/companies" />
+    <SUITE FILE_PATH="coverage/phase_flask1$utils1.coverage" NAME="utils1 Coverage Results" MODIFIED="1561740553890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/common" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>24</find>
+      <find>sa</find>
+      <find>serial_mymodal1</find>
+      <find>select_party</find>
+      <find>focus_on_add_new</find>
+      <find>focus</find>
+      <find>gstin</find>
+      <find>Type</find>
+      <find>party</find>
+      <find>{{ (14 - invoice_package['total_items']) if invoice_item['sr_no']==invoice_package['total_items'] else 1 }}</find>
+      <find>chat_con</find>
+      <find>red</find>
+      <find>inde</find>
+      <find>send</find>
+      <find>update</find>
+      <find>fab_Se</find>
+      <find>startbu</find>
+      <find>stat</find>
+      <find>submit</find>
+      <find>x</find>
+      <find>chatSendF</find>
+      <find>chatSend</find>
+      <find>fab</find>
+      <find>url_for</find>
+      <find>cond</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fab_send</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d1TXYeCOH3sO8Q6sUQddhFCDZy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/kunjm/Desktop/Drives/Projects/Kaku Office/phase_flask1/src/templates/invoices/new_invoice.jinja2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kunjm\Desktop\Drives\Projects\Kaku Office\phase_flask1\src\models\items" />
+      <recent name="C:\Users\kunjm\Desktop\Drives\Projects\Kaku Office\phase_flask1\src\static\js\page" />
+      <recent name="C:\Users\kunjm\Desktop\Drives\Projects\Kaku Office\phase_flask1\src\static\vendor\bootstrap\css" />
+      <recent name="C:\Users\kunjm\Desktop\Drives\Projects\Kaku Office\phase_flask1\src\templates" />
+      <recent name="C:\Users\kunjm\Desktop\Drives\Projects\Kaku Office\phase_flask1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="excel_sheet_maker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="phase_flask1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/models/invoices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/models/invoices/excel_sheet_maker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="invoice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="phase_flask1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/models/invoices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/models/invoices/invoice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="item" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="phase_flask1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/models/items" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/models/items/item.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="phase_flask1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="phase_flask1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/models/companies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/models/companies/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phase_flask1" type="Python.FlaskServer">
+      <module name="phase_flask1" />
+      <option name="target" value="$PROJECT_DIR$/src/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.phase_flask1" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.excel_sheet_maker" />
+      <item itemvalue="Python.invoice" />
+      <item itemvalue="Python.item" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.item" />
+        <item itemvalue="Python.invoice" />
+        <item itemvalue="Python.excel_sheet_maker" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7406bdf7-44dc-4876-a3ab-4740c36c238d" name="Default Changelist" comment="" />
+      <created>1560785792575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560785792575</updated>
+      <workItem from="1591591662419" duration="37000" />
+      <workItem from="1591593770236" duration="3357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="124" key="FileChooserDialogImpl" timestamp="1591594608313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591594608313" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1591601244601">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591601244601" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1591601244601">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591601244601" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1591601244601">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591601244601" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1591601244601">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591601244601" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1591594682182">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591594682182" />
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1591591662429">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1591591662429" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/models/users/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/phase_flask1$run.coverage" NAME="run Coverage Results" MODIFIED="1591594688013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
